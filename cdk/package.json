@@ -36,7 +36,7 @@
     "aws-cdk-lib": "^2.66.1",
     "aws-sdk": "^2.1297.0",
     "cdk-assets": "^2.66.1",
-    "constructs": "^10.1.224",
+    "constructs": "^10.3.0",
     "uuid4": "^2.0.3",
     "axios": "^1.2.3"
   },
